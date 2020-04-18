@@ -3,15 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://zastre.github.io/</loc>
+    <lastmod>2020-04-17T19:52:50-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://zastre.github.io/project/my-first-project/</loc>
+    <lastmod>2020-04-17T19:52:50-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://zastre.github.io/project/</loc>
+    <lastmod>2020-04-17T19:52:50-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://zastre.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>http://zastre.github.io/</loc>
+    <loc>http://zastre.github.io/tags/</loc>
   </url>
   
   <url>
-    <loc>http://zastre.github.io/tags/</loc>
+    <loc>http://zastre.github.io/project/tutorial-project/</loc>
   </url>
   
 </urlset>
