@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Minimal</title>
+    <link>http://zastre.github.io/projects/</link>
+    <description>Recent content in Projects on Minimal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Apr 2020 19:52:50 -0700</lastBuildDate>
+    
+	<atom:link href="http://zastre.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Project</title>
+      <link>http://zastre.github.io/projects/my-first-project/</link>
+      <pubDate>Fri, 17 Apr 2020 19:52:50 -0700</pubDate>
+      
+      <guid>http://zastre.github.io/projects/my-first-project/</guid>
+      <description>Ta da! Sub ta da!  One Two THREE!  </description>
+    </item>
+    
+  </channel>
+</rss>
